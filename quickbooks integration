@@ -1,0 +1,16 @@
+Steps for integrating our website with quickbooks
+
+-> login to Quickbooks
+-> Manage your inventory section
+-> manage customer’s data
+-> export data in excel file
+-> manage data according to expenditure time.
+-> Use pie chart and bar graph to show customer’s expenses.
+
+As we want to manage data of our customers we are going to select  manage your inventory
+section.This data includes their total budget and expenses . In Future we will also work on their bank and UPI transactions
+In dashboard page of our site, customers will enter their total expense of items and  total budget .
+We are arranging it according to time period of their expenditure.We are going to export this data as excel ﬁle in QuickBooks API.
+We are going to manage customer’s total expense according to expenditure time.It means we will show their weekly or monthly expense
+at which time  their expenditure is higher so they can manage  accordingly. We will also give customer’s login email in database.
+
